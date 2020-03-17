@@ -17,7 +17,7 @@
       car()
 
 
-      //价格合计
+      //价格合计,git修改
       var rows = table_2.rows;
       var sum1 = 0;
       for (var i = 1; i < rows.length; i++) { //--循环所有的行
